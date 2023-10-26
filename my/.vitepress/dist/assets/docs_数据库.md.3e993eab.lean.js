@@ -1,0 +1,1 @@
+import{_ as l,o as i,c as a,Q as e}from"./chunks/framework.bfb2b7b2.js";const b=JSON.parse('{"title":"一 绪论","description":"","frontmatter":{},"headers":[],"relativePath":"docs/数据库.md","filePath":"docs/数据库.md"}'),o={name:"docs/数据库.md"},r=e("",76),t=[r];function h(n,d,s,u,c,_){return i(),a("div",null,t)}const p=l(o,[["render",h]]);export{b as __pageData,p as default};
